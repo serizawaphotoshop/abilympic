@@ -1,0 +1,100 @@
+*{
+margin:0;
+padding:0;
+}
+
+body{
+background-color:lightblue;
+margin:0 auto;
+width:1000px;
+font-family:"ÉÅÉCÉäÉI",sans-serif;
+}
+header{
+margin-top:30px;
+margin-bottom:30px;
+}
+nav ul{
+padding:0px;
+}
+nav li{
+display : inline;
+float:left;
+}
+nav li a{
+display:block;
+width:250px;
+text-align:center;
+font-size:large;
+}
+main{
+width:100%;
+}
+footer{
+height:50px;
+clear:both;
+}
+
+.mailheader{
+margin:0 auto;
+}
+
+h1{
+color:darkblue;
+background-color:skyblue;
+border:2px solid darkblue;
+text-align:center;
+}
+h2{
+color:darkred;
+background-color:skyblue;
+margin-top:30px;
+clear:both;
+}
+h3{
+color:red;
+background-color:skyblue;
+margin-top:30px;
+}
+p{
+margin-top:10px
+}
+br{
+width:3px
+color:black;
+clear:both;
+}
+
+
+.mainTable{
+border:2px solid green;
+border-collapse:collapse;
+background-color:white;
+margin:0 auto;
+margin-top:30px;
+}
+
+.mainTable td{
+border:2px solid green;
+padding:1em;
+padding-left:2em;
+}
+
+.mainTable td li{
+
+}
+.mainTable th{
+border:2px solid green;
+font-weight:normal;
+padding:1em;
+
+.gazou{
+margin:0 auto;
+width:30px;
+}
+caption{
+display:block;
+}
+.honbun h3{
+background-color:green;
+
+}
